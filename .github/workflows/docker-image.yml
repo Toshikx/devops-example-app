@@ -50,4 +50,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: hexletcomponents/devops-example-app:latest
+          tags: toshikx/hexletcomponents:latest
